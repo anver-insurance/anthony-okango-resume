@@ -99,9 +99,6 @@ Attention to Detail · Confidentiality · Strategic Thinking · Communication ·
 Data Manager – Elephant Dental Ltd  
 📞 +254 701 022 470  
 
-**Mrs. Faith Shikuku**  
-Chief Officer – NHIF (Currently SHA), Mumias Branch  
-📞 +254 720 206 092  
 
 **Verine Okello**  
 Trident Insurance  
@@ -121,17 +118,4 @@ Trident Insurance
 ## Download
 - [Download Resume (PDF)](resume.pdf)
 
----
 
-### How to Host on GitHub
-1. Create a public repo named `anthony-okango-resume`.
-2. Upload this file as `README.md`.
-3. Add an `images/` folder and upload your `profile.jpg` and gallery images there.
-4. Upload your `resume.pdf` file.
-5. Go to **Settings → Pages**, select the `main` branch → `/ (root)` and click **Save**.
-6. Your resume site will appear at  
-   **https://yourusername.github.io/anthony-okango-resume/**
-
----
-
-✅ **Privacy Reminder:** Avoid uploading any documents containing personal IDs or signatures.
